@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/office-365.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/unity.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
