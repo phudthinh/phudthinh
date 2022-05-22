@@ -49,7 +49,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1468665/screenshots/14798994/media/eba7b8fc9aee00eb5757bf7fa89c0327.mp4" alt="dev" width="100%"/>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F831992-u-hd-gif&psig=AOvVaw1XJgjH5gehW-iMsb6xeRKE&ust=1653298397900000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDMhNDm8vcCFQAAAAAdAAAAABAJ" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
