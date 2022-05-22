@@ -49,7 +49,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e477a83b00hipdbhqznkj2mtfuuz0p1hs7gmgj892yd&rid=giphy.gif&ct=g" alt="Gif image" width="100%"/>
+        <img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e477a83b00hipdbhqznkj2mtfuuz0p1hs7gmgj892yd&rid=giphy.gif&ct=g" alt="Gif image" width="120%"/>
       </p>
     </td>
   </tr>
