@@ -37,6 +37,8 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/unity.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/unity.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </p>
