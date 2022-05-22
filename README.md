@@ -1,6 +1,6 @@
 <h1 align="center">My name is Phu Thinh</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">I will be the one to become the King of Programming</h3>
+<h3 align="center">I will be the one to become the King of Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phudthinh1412" alt="phudthinh1412" /> <img src="https://badges.pufler.dev/repos/phudthinh1412" alt="phudthinh1412" /> </p>
 
 - I'm a **NEWBIE**
@@ -36,7 +36,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/unity.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </p>
@@ -49,7 +49,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1468665/screenshots/14798994/media/eba7b8fc9aee00eb5757bf7fa89c0327.mp4" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
