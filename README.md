@@ -49,7 +49,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://i.ibb.co/JmQ7WXq/Image-Github.png" alt="Image Github" width="100%"/>
+        <img src="https://i.ibb.co/ns6dQZ8/Image-Github.png" alt="Image Github" width="100%"/>
       </p>
     </td>
   </tr>
