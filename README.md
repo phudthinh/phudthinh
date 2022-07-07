@@ -1,7 +1,8 @@
 <h1 align="center">My name is Phu Thinh</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">I will be the one to become the King of Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phudthinh1412" alt="phudthinh1412"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phudthinh1412" alt="phudthinh1412"/></p>
+
 - I'm a **NEWBIE**
 
 - I'm a student of: [Baria Vungtau University](https://bvu.edu.vn/) (BVU).
