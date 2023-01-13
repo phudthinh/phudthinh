@@ -75,7 +75,6 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-media-encoder.png"/>
   <img src="https://img.icons8.com/external-others-inmotus-design/48/000000/external-Corel-Draw-applications-and-programs-others-inmotus-design.png"/>
  </p>
- <br/>
  <b>Programming</b>
  <br/>
  <p align="center">
