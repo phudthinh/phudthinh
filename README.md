@@ -30,7 +30,7 @@
   </a> 
   </a>
     <a href="https://phudthinh1412.github.io/WebsitePhuThinh/" alt="My Website">
-    <img src="https://img.icons8.com/color/512/internet.png"/>
+    <img src="https://img.icons8.com/color/48/000000/internet.png"/>
   </a> 
 </p>
 
