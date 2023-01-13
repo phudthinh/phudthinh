@@ -63,10 +63,9 @@
 </p>
 
 ## Application:
-
+<b>Design</b>
+<br/>
 <p align="center">
-  <b>Design</b>
-  <br/>
   <img src="https://img.icons8.com/color/48/000000/office-365.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
@@ -75,9 +74,11 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-media-encoder.png"/>
   <img src="https://img.icons8.com/external-others-inmotus-design/48/000000/external-Corel-Draw-applications-and-programs-others-inmotus-design.png"/>
-  <br/>
-  <b>Programming</b>
-  <br/>
+ </p>
+ <br/>
+ <b>Programming</b>
+ <br/>
+ <p align="center">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/unity-5.png"/>
