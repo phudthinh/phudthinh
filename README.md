@@ -13,23 +13,23 @@
 ## How to reach me:
 
 <p align="center">
-  <a href="https://www.facebook.com/phu.d.thinh/" alt="Facebook">
+  <a href="https://www.facebook.com/phu.d.thinh/" alt="Facebook" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a>
-    <a href="https://www.instagram.com/phu.d.thinh/" alt="Facebook">
+    <a href="https://www.instagram.com/phu.d.thinh/" alt="Facebook" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank" />
   </a> 
     <a href="https://www.youtube.com/channel/UCI7AgFACk7d6yrxege6sPgw" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="mailto:bestdaxuovn@gmail.com" alt="Email">
+  <a href="mailto:bestdaxuovn@gmail.com" alt="Email" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a>
-    <a href="https://github.com/phudthinh1412" alt="Github">
+    <a href="https://github.com/phudthinh1412" alt="Github" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   </a>
-    <a href="https://phudthinh1412.github.io/WebsitePhuThinh/" alt="My Website">
+    <a href="https://phudthinh1412.github.io/WebsitePhuThinh/" alt="My Website" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/internet.png"/>
   </a> 
 </p>
