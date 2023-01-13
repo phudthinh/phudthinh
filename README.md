@@ -7,7 +7,7 @@
 
 - I'm a student of: [Baria Vungtau University](https://bvu.edu.vn/) (BVU).
 
-- I’m currently learning **HTML**
+- I'm a **Website Developer**
 
 
 ## How to reach me:
@@ -28,19 +28,52 @@
     <a href="https://github.com/phudthinh1412" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
+  </a>
+    <a href="https://phudthinh1412.github.io/WebsitePhuThinh/" alt="My Website">
+    <img src="https://img.icons8.com/color/512/internet.png"/>
+  </a> 
 </p>
 
-## My Skills:
+## Frontend:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/office-365.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/unity.png"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <img src="https://img.icons8.com/color/512/html-5.png"/>
+  <img src="https://img.icons8.com/color/512/css3.png"/>
+  <img src="https://img.icons8.com/color/512/react-native.png"/>
+  <img src="https://img.icons8.com/color/512/nextjs.png"/>
 </p>
-
+## Backend:
+<p align="center">
+  <img src="https://img.icons8.com/color/512/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/512/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/512/firebase.png"/>
+  <img src="https://static-00.iconduck.com/assets.00/strapi-icon-512x505-3hl7a1v3.png"/>
+</p>
+## Programming Language:
+<p align="center">
+  <img src="https://img.icons8.com/color/512/c-programming.png"/>
+  <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/512/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/512/javascript.png"/>
+  <img src="https://img.icons8.com/color/512/python.png"/>
+</p>
+## Application:
+<p align="center">
+  <b>Design</b>
+  <img src="https://img.icons8.com/color/512/office-365.png"/>
+  <img src="https://img.icons8.com/color/512/adobe-photoshop.png"/>
+  <img src="https://img.icons8.com/color/512/adobe-illustrator.png"/>
+  <img src="https://img.icons8.com/color/512/adobe-animate.png"/>
+  <img src="https://img.icons8.com/color/512/adobe-after-effects.png"/>
+  <img src="https://img.icons8.com/color/512/adobe-premiere-pro.png"/>
+  <img src="https://img.icons8.com/color/512/adobe-media-encoder.png"/>
+  <img src="https://img.icons8.com/external-others-inmotus-design/512/external-Corel-Draw-applications-and-programs-others-inmotus-design.png"/>
+  <b>Programming</b>
+  <img src="https://img.icons8.com/color/512/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/512/visual-studio--v2.png"/>
+  <img src="https://img.icons8.com/color/512/unity-5.png"/>
+  <img src="https://img.icons8.com/color/512/android-studio--v2.png"/>
+</p>
 <table style="width:100%;">
   <tr>
     <td>
