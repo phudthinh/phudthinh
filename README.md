@@ -46,7 +46,6 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-  <img src="https://static-00.iconduck.com/assets.00/strapi-icon-512x505-3hl7a1v3.png"/>
 </p>
 ## Programming Language:
 <p align="center">
