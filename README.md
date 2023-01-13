@@ -35,19 +35,24 @@
 </p>
 
 ## Frontend:
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 </p>
+
 ## Backend:
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
+
 ## Programming Language:
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -56,7 +61,9 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
 </p>
+
 ## Application:
+
 <p align="center">
   <b>Design</b>
   <img src="https://img.icons8.com/color/48/000000/office-365.png"/>
