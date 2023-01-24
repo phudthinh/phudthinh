@@ -29,7 +29,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   </a>
-    <a href="https://phudthinh1412.github.io/WebsitePhuThinh/" alt="My Website" target="blank">
+    <a href="http://www.phuthinh.website/" alt="My Website" target="blank">
     <img src="https://img.icons8.com/color/48/000000/internet.png"/>
   </a> 
 </p>
