@@ -1,7 +1,7 @@
 <h1 align="center">My name is Phu Thinh</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">I will be the one to become the King of Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phudthinh1412" alt="phudthinh1412"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DaoPhuThinh" alt="DaoPhuThinh"/></p>
 
 - I'm a **NEWBIE**
 
@@ -86,8 +86,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phudthinh1412&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="phudthinh1412" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=phudthinh1412&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="phudthinh1412" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoPhuThinh&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="DaoPhuThinh" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=DaoPhuThinh&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="DaoPhuThinh" width="100%"/>
     </td>
     <td>
       <p align="center"> 
