@@ -7,7 +7,7 @@
 
 - I'm a student of: [Baria Vungtau University](https://bvu.edu.vn/) (BVU).
 
-- I'm a **Website Developer**
+- I'm a **Full-Stack Developer**
 
 
 ## How to reach me:
@@ -29,7 +29,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   </a>
-    <a href="http://www.phuthinh.website/" alt="My Website" target="blank">
+    <a href="http://www.phuthinh.dev/" alt="My Website" target="blank">
     <img src="https://img.icons8.com/color/48/000000/internet.png"/>
   </a> 
 </p>
@@ -43,6 +43,7 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/wordpress"/>
 </p>
 
 ## Backend:
@@ -62,6 +63,7 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-PHP-programming-and-development-those-icons-flat-those-icons.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/null/git.png"/>
 </p>
