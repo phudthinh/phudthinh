@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://www.facebook.com/phu.d.thinh/" alt="Facebook" target="blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="blank" />
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
   </a>
-    <a href="https://www.instagram.com/phu.d.thinh/" alt="Facebook" target="blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="blank" />
+    <a href="https://www.instagram.com/phu.d.thinh/" alt="Facebook" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
   </a> 
     <a href="https://www.youtube.com/channel/UCI7AgFACk7d6yrxege6sPgw" alt="Youtube channel" target="blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
@@ -25,11 +25,11 @@
   <a href="mailto:bestdaxuovn@gmail.com" alt="Email" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a>
-    <a href="https://github.com/phudthinh1412" alt="Github" target="blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <a href="https://join.skype.com/invite/vatlT55trM9s" alt="Skype.png" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/skype.png"/>
   </a> 
   </a>
-    <a href="http://www.phuthinh.dev/" alt="My Website" target="blank">
+    <a href="http://phuthinh.dev/" alt="My Website" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/internet.png"/>
   </a> 
 </p>
@@ -86,7 +86,7 @@
  <p align="center">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/unity-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/unity.png"/>
   <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
 </p>
 <table style="width:100%;">
